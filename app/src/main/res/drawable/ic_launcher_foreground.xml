@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sunshine Yellow Sun Circle -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,32m-13,0a13,13 0 1,1 26,0a13,13 0 1,1 -26,0" />
+
+    <!-- Radiant Sun Rays -->
+    <path
+        android:pathData="M54,12L54,15 M54,49L54,52 M32,32L35,32 M73,32L76,32 M39,17L41,19 M67,45L69,47 M39,47L41,45 M67,19L69,17"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFB300"
+        android:strokeLineCap="round" />
+
+    <!-- Solar Panel Frame (Slate Gray) -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M26,52 L82,52 L88,84 L20,84 Z" />
+
+    <!-- Solar Panel Grid (Vibrant Deep Blue) -->
+    <path
+        android:fillColor="#0288D1"
+        android:pathData="M28,54 L80,54 L85,82 L23,82 Z" />
+
+    <!-- Solar Panel White Grid Lines -->
+    <path
+        android:pathData="M54,54 L54,82 M28,68 L81,68 M41,54 L38,82 M67,54 L70,82"
+        android:strokeWidth="1.8"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- Green Health Leaf Badge -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M74,68 C74,68 85,66 87,77 C87,83 78,85 74,85 C74,85 72,75 74,68 Z" />
+
+</vector>

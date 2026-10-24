@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. Forced Light Mode. -->
+    <style name="Base.Theme.SolarSehat" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_emerald</item>
+        <item name="colorPrimaryDark">@color/primary_emerald_dark</item>
+        <item name="colorAccent">@color/sunshine_yellow</item>
+        <item name="android:windowBackground">@color/pale_blue</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+clean
+dust
+bird_drop
+electrical_damage
+physical_damage

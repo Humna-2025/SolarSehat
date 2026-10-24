@@ -1,0 +1,11 @@
+SolarSehat On-Device AI Models Information
+------------------------------------------
+YOLO Object Detection Models:
+- YOLOv5n: Lightweight detector (FP16 & FP32 options)
+- YOLOv8n: Improved accuracy & anchor-free architecture
+- YOLO11n: Latest generation edge-optimized detector
+Input resolution: 320x320 RGB float32
+
+Panel Condition Classifier:
+- MobileNetV2: Overall panel status classifier
+Input resolution: 224x224 RGB float32

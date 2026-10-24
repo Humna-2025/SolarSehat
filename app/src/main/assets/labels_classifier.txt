@@ -1,0 +1,5 @@
+Clean
+Dusty
+Bird-drop
+Electrical-damage
+Physical-Damage
